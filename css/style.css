@@ -1,0 +1,764 @@
+.navbars{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 5;
+    
+}
+.navbars h5{
+    font-weight: bold;
+    letter-spacing: 3px;
+    position: relative;
+    left: 30px;
+}
+.heading{
+    width: 16%;
+    height: 70px;
+    position: relative;
+    left: 250px;
+    top: 23px;
+}
+
+.heading a{
+    text-decoration: none;
+    color: black;
+}
+.heading h6{
+    position: relative;
+    left: 0px;
+    letter-spacing: 2px;
+    font-size: unset;
+}
+.nav-links li{
+    display: inline-block;
+}
+
+.navbar-content{
+    width: 50%;
+    position: relative;
+    left: 35rem;
+    bottom: 25px;
+}
+.nav-links a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: rgb(107, 95, 95);
+
+}
+
+.nav-links a:hover{
+    color: rgb(138 149 155);
+}
+
+.first-body{
+    background-color:rgb(164, 245, 245);
+    width: 100%;
+    height: 50rem;
+}
+#first-body-section{
+    position: relative;
+    top: 5rem;
+}
+
+.heading-large{
+    height: 20rem;
+}
+.first-heading{
+    width: 35%;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 5rem;
+}
+.first-heading h4{
+    text-align: center;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: 2px;
+    font-weight: revert;
+}
+.second-heading{
+    width: 60%;
+    height: 150px;
+    position: relative;
+    top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-heading h1{
+    text-align: center;
+    font-size: 8rem;
+    font-weight: bold;
+}
+.third-heading{
+    width: 35%;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 3rem;
+
+}
+.third-heading h4{
+    text-align: center;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.first-button{
+    width: 10%;
+    height: 3rem;
+    position: relative;
+    left: 43rem;
+}
+#first-btn{
+    height: 45px;
+    width: 9rem;
+    background-color: black;
+    color: white;
+    letter-spacing: 1px;
+    border: solid black 2px;
+}
+#first-btn:hover{
+    background-color: white;
+    color: black;
+}
+#about-section{
+    height: 43rem;
+    background-color: white;
+    width: 100%;
+    position: relative;
+    top: 5rem;
+
+}
+.about-first{
+    width: 75%;
+    background-color: rgb(255, 255, 255);
+    height: 40rem;
+    position: relative;
+    left: 18rem;
+
+}
+.about-line{
+    height: 2px;
+    width: 45px;
+    background-color: black;
+    position: relative;
+    top: 3rem;
+
+}
+.about-us{
+    width: 20%;
+    height: 8rem;
+    position: relative;
+    top: 4rem;
+}
+.about-us h2{
+    font-size: xxx-large;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.about-content{
+    width: 34%;
+    height: 24rem;
+    position: relative;
+    top: 8rem;
+}
+.about-content p{
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+.about-image{
+    background-color: aqua;
+    width: 68%;
+    position: relative;
+    left: 28rem;
+    height: 40rem;
+    bottom: 32rem;
+}
+.about-buttons{
+    width: 30%;
+    height: 3rem;
+    position: relative;
+    top: 3rem;
+}
+.button-one button{
+    height: 40px;
+    width: 9rem;
+    background-color: black;
+    color: white;
+    letter-spacing: 1px;
+    border: solid black 2px;
+
+}
+.button-one{
+    width: 9rem;
+}
+.button-second{
+    position: relative;
+    bottom: 40px;
+    left: 170px;
+    width: 13rem;
+}
+.button-second button{
+    height: 40px;
+    width: 13rem;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    border: solid black 2px;
+}
+.button-one button:hover{
+    background-color: white;
+    color: black;
+
+}
+.button-second button:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+#details-section{
+    width: 100%;
+    height: 50rem;
+    position: relative;
+    top: 5rem;
+    background-color: rgb(164, 245, 245);
+
+}
+/* .back-image{
+    width: 100%;
+    height: 50rem;
+    position: relative;
+    top: 5rem;
+    background-image: url(../images/blue-mountain-rcaapik1mldbebet.jpg);
+    opacity: 2px;
+} */
+
+.details-start{
+    /* background-color: #676e6c; */
+    width: 62%;
+    height: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.details-head{
+    width: 25%;
+    height: 8rem;
+    position: relative;
+    top: 4rem;
+
+}
+.details-head h2{
+    font-size: xxx-large;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.detail-details{
+    width: 100%;
+    height: 32rem;
+    position: relative;
+    top: 10rem;
+    right: 40px;
+    display: flex;
+    
+}
+.first-detail-block{
+    border: solid black 5px;
+    width: 30%;
+    height: 75%;
+    margin-left: 40px;
+}
+.detail-block-heading{
+    text-align: center;
+    margin-top: 25px;
+
+}
+.detail-block-heading h2{
+    font-size: larger;
+    font-weight: 800;
+    letter-spacing: 3px;
+
+}
+.detail-block-heading h2:hover{
+    color: #636665;
+}
+.detail-about{
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+.detail-line{
+    width: 46%;
+    height: 2px;
+    background-color: black;
+    position: relative;
+    top: 50px;
+    left: 73px;
+}
+.detail-block-button{
+    position: relative;
+    top: 115px;
+    left: 50px;
+    width: 170px;
+}
+
+.detail-block-button button{
+height: 40px;
+width: 10rem;
+background-color: black;
+color: white;
+letter-spacing: 1px;
+border: solid black 2px;
+}
+.detail-block-button button:hover{
+    color: black;
+    background-color: white;
+}
+.more-details-button{
+    position: relative;
+    bottom: 40px;
+    left: 343px;
+    top: 88px;
+    width: 13rem;
+}
+.more-details-button button{
+    height: 40px;
+    width: 13rem;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    border: solid black 2px;
+}
+.more-details-button button:hover{
+    background-color: white;
+    color: black;
+}
+#contact-section{
+    width: 100%;
+    height: 50rem;
+    background-color:#57bbbf;
+    position: relative;
+    top: 80px;
+}
+.contact-details{
+    width: 60%;
+    height: 30rem;
+    
+    position: relative;
+    top: 50px;
+    left: 18rem;
+}
+.contact-head{
+    width: 20%;
+    position: relative;
+    top: 4rem;
+}
+.contact-head h3{
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+.contact{
+    width: 31%;
+    height: 28rem;
+    
+    position: relative;
+    top: 5rem;
+}
+.contact-place{
+    width: 50%;
+    position: relative;
+    top: 1rem;
+}
+.contact-place p{
+    font-size: smaller;
+    letter-spacing: 1px;
+    font-weight: 500;
+
+}
+.contact-phone{
+    width: 50%;
+    position: relative;
+    top: 2rem;
+
+}
+.contact-phone p{
+    font-size: smaller;
+    letter-spacing: 1px;
+    font-weight: 500;
+
+
+}
+.contact-email{
+    width: 50%;
+    position: relative;
+    top: 3rem;
+
+}
+.contact-email p{
+    font-size: smaller;
+    letter-spacing: 1px;
+    font-weight: 500;
+
+}
+.contact-logos{
+    width: 50%;
+    position: relative;
+    top: 4rem;
+    font-size: 20px;
+    display: flex;
+
+}
+.contact-logos a{
+    text-decoration: none;
+    color: black;
+}
+.contact-logos a:hover{
+    color: rgb(35, 33, 33);
+}
+.contact-form{
+    width: 66%;
+    height: 40rem;
+    
+    position: relative;
+    bottom: 27rem;
+    left: 19rem;
+    
+}
+.contact-form span{
+    font-size: medium;
+    position: relative;
+    top: 20px;
+}
+
+.contact-form input{
+    margin-top: 10px;
+    width: 65%;
+    border: solid rgb(0, 0, 0) 2px;
+    height: 35px;
+    background-color: #57bbbf;
+    position: relative;
+    top: 11px;
+}
+.contact-form input:hover{
+    border: solid black 3px;
+}
+#message-box{
+    margin-top: 10px;
+    width: 65%;
+    border: solid black 2px;
+    height: 120px;
+    background-color: #57bbbf;
+    position: relative;
+    top: 11px;
+
+}
+.contact-form-submit{
+    height: 40px;
+width: 10rem;
+background-color: black;
+color: white;
+letter-spacing: 1px;
+border: solid black 2px;
+position: relative;
+    top: 30px;
+    left: 230px;
+}
+.contact-form-submit:hover{
+    color: black;
+    background-color: white;
+}
+.final-div{
+    position: relative;
+    bottom: 40rem;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.bar-icon{
+    display: none;
+}
+
+
+
+/* style for mobile */
+
+@media only screen and (max-width: 600px) {
+  .navbars{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 7px 21px;
+    height: max-content;
+  }
+
+  .heading{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+    top:0;
+    left: 0;
+    width: max-content;
+    height: max-content;
+  }
+
+  .navbar-content{
+    display: none;
+  }
+
+  .bar-icon{
+    display: block;
+  }
+
+  .navbars h5{
+    left: 0;
+    font-size: 17px;
+    width: max-content;
+  }
+
+  .navbars h6{
+    font-size: 10px;
+    width: max-content;
+  }
+  
+  /* first section */
+
+ #first-body-section{
+    position: unset;
+ }
+
+  .first-body{
+    height: max-content;
+    padding:2rem 0;
+  }
+
+  .first-button{
+    position: unset;
+    width: 100%;
+    display: flex;
+    margin-top: 23px;
+  }
+
+  #first-btn{
+    margin: 0 auto;
+  }
+
+  .heading-large{
+    display: flex;
+    flex-direction: column;
+    padding-top: 46px;
+    height: max-content;
+  }
+
+  .first-heading{
+    top: 0;
+    width: max-content;
+    height: max-content;
+  }
+   
+  .second-heading{
+   height: max-content;
+   position: unset;
+   width: max-content;
+  }
+
+  .first-heading h4{
+    font-size: 10px;
+  }
+
+  
+  .second-heading h1{
+    font-size: 3.7rem;
+   }
+
+  .third-heading{
+    top: 0px;
+    width: max-content;
+    height: max-content;
+  }
+
+  .third-heading h4{
+    font-size: 10px;
+  }
+
+  /* second section */
+
+  #about-section{
+    position: unset;
+    height: max-content;
+  }
+
+  .about-first{
+    position: unset;
+    width: 100%;
+    padding-left: 14px;
+    padding-top: 2.5rem;
+  }
+
+  .about-line{
+    position: unset;
+  }
+
+  .about-us{
+    width: max-content;
+    position: unset;
+  }
+
+  .about-content{
+    position: unset;
+    margin-top: 10px;
+    width: 100%;
+    padding-right: 14px;
+    height: max-content;
+   }
+
+  .about-image{
+    display: none;
+  }
+
+  .about-buttons{
+    display: flex;
+    gap: 7px;
+    position: unset;
+    width: max-content;
+    height: max-content;
+  }
+
+  .button-one{
+    position: unset;
+  }
+
+  .button-one button,.button-second button{
+    width: 8.5rem;
+  }
+
+  .button-second{
+    position: unset;
+    width: max-content;
+  }
+
+/* third section */
+
+#details-section{
+   position: unset;
+   height: max-content;
+   padding: 2rem 14px;
+}
+
+.details-start{
+    margin: 0 0 0 0;
+    width: 100%;
+    height: max-content;
+}
+
+.details-head{
+    width: max-content;
+    position: unset;
+}
+
+.detail-details{
+    position: unset;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: max-content;
+}
+
+.detail-block-heading{
+    margin-top: 0px;
+}
+
+.detail-about{
+    position: unset;
+}
+
+.detail-line{
+    position: unset;
+}
+
+.detail-block-button{
+    position: unset;
+}
+
+.first-detail-block{
+    margin-left: 0;
+    width: 80%;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.details-head h2{
+    font-size: 2rem;
+}
+
+.more-details-button{
+    position: unset;
+    width: 100%;
+    display: flex;
+    align-items: center;justify-content: center;
+    margin-top: 25px;
+}
+
+/* fourth section */
+
+#contact-section{
+    position: unset;
+    height: max-content;
+}
+
+.contact-details{
+    height: max-content;
+    width: 100%;
+    padding: 2rem 14px;
+}
+
+.contact-details{
+    position: unset;
+}
+
+.contact-head{
+    width: max-content;
+    position: unset;
+}
+
+.contact{
+    position: unset;
+    width: max-content;
+    height: max-content;
+}
+
+.contact div{
+    position: unset;
+}
+
+.contact-form{
+    position: unset;
+    height: max-content;
+}
+
+.contact-form span,.contact-form input{
+    position: unset;
+    width: max-content;
+}
+
+.contact-form-submit{
+    position: unset;
+    margin-top: 2rem;
+}
+
+.final-div{
+    position: unset;
+    margin-top: 2rem;
+}
+
+
+  }
